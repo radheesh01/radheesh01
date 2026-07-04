@@ -1,25 +1,4 @@
-```markdown
-<!-- ========================================================= -->
-<!-- RADHEESH CYBER PROFILE - OPTIMIZED 2026 EDITION -->
-<!-- ========================================================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:04070d,20:0b1320,40:14213d,60:1b4965,80:3a86ff,100:00e5ff&text=RADHEESH%20KUMAR%20R&fontAlign=50&fontAlignY=38&fontSize=62&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=60&descAlign=50" alt="Header"/>
-</p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2200&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Digital+Universe;Computer+Science+Engineer;AI+Engineer;Full+Stack+Developer;Creative+UI%2FUX+Designer;Building+the+Future+with+Code;Let's+Create+Something+Legendary" alt="Typing SVG"/>
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/radheesh01?style=for-the-badge&logo=github&color=00E5FF"/>
-  <img src="https://img.shields.io/github/stars/radheesh01?style=for-the-badge&logo=github&color=00E5FF"/>
-  <img src="https://komarev.com/ghpvc/?username=radheesh01&style=for-the-badge&color=00e5ff"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00e5ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Enthusiast-00e5ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Always%20Building-Active-success?style=for-the-badge"/>
-</p>
-
----
 
 <!-- SYSTEM INITIALIZATION -->
 ```text
