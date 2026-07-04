@@ -1,248 +1,176 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Radheesh%20Kumar%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Engineering%20Student%20%7C%20Building%20AI%20solutions%20for%20real-world%20problems&descAlignY=62&descSize=16" width="100%"/>
 
-<!-- SYSTEM INITIALIZATION -->
-```text
-██████╗  █████╗ ██████╗ ██╗  ██╗███████╗███████╗███████╗██╗  ██╗
-██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██╔════╝██╔════╝██║ ██╔╝
-██████╔╝███████║██║  ██║█████╔╝ █████╗  █████╗  ███████╗███████║ 
-██╔══██╗██╔══██║██║  ██║██╔═██╗ ██╔══╝  ██╔══╝  ╚════██║██╔══██║ 
-██║  ██║██║  ██║██████╔╝██║  ██╗███████╗███████╗███████║██║  ██║ 
-╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
+<a href="https://github.com/radheesh01">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student+%F0%9F%8E%93;Building+AI-powered+solutions+%F0%9F%9A%80;Deepfake+Prevention+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Always+exploring+new+tech+%F0%9F%94%8D" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+## 👋 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+class RadheeshKumarR:
+    def __init__(self):
+        self.name = "Radheesh Kumar R"
+        self.location = "Chennai, Tamil Nadu, India"
+        self.degree = "B.E. Computer Science & Engineering"
+        self.college = "Rajalakshmi Institute of Technology (2024 - 2028)"
+        self.interests = [
+            "AI-powered software for real-life problems",
+            "Deepfake detection & prevention",
+            "Image processing"
+        ]
+        self.hobbies = ["Gyming", "Playing Keyboard", "Gaming", "Drawing"]
+        self.fun_fact = "Received a copyright certificate for a solar image processing project"
+
+    def motto(self):
+        return "Build software that solves real problems."
+
+me = RadheeshKumarR()
 ```
 
-```yaml
-Booting Cyber Interface... ✓
-Loading Artificial Intelligence... ✓
-Loading Portfolio & Projects... ✓
-Loading Innovation Engine... ✓
-Access Granted. Welcome, Visitor.
-```
+<br/>
 
----
+## 🛠️ Skills & Interests
 
-### 👋 Hello, World!
+**Core Skills**
 
-```cpp
-class Radheesh {
-public:
-    std::string role = "AI Engineer & Full Stack Developer";
-    std::string passion = "Building Intelligent Systems";
-    std::string focus = "Artificial Intelligence & Human-Centric Design";
-    std::string mission = "Develop Technology That Solves Real Problems";
-    std::string motto = "Code with Purpose • Design with Soul";
-};
-```
+![Frontend](https://img.shields.io/badge/Frontend-264653?style=flat-square)
+![Animations](https://img.shields.io/badge/Animations-2A9D8F?style=flat-square)
+![Graphic Designing](https://img.shields.io/badge/Graphic%20Designing-E9C46A?style=flat-square)
+![Video Editing](https://img.shields.io/badge/Video%20Editing-F4A261?style=flat-square)
+![Photo Editing](https://img.shields.io/badge/Photo%20Editing-E76F51?style=flat-square)
 
----
+**Collaboration & Business**
 
-### 🧠 Who Am I?
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-457B9D?style=flat-square)
+![Team Management](https://img.shields.io/badge/Team%20Management-1D3557?style=flat-square)
+![Presentation Skills](https://img.shields.io/badge/Presentation%20Skills-A8DADC?style=flat-square)
+![Negotiation](https://img.shields.io/badge/Negotiation-6D6875?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-B5838D?style=flat-square)
+![Market Research](https://img.shields.io/badge/Market%20Research-355070?style=flat-square)
 
-```text
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║                    RADHEESH KUMAR R                            ║
-║                                                                ║
-╠════════════════════════════════════════════════════════════════╣
-║ Status          : Online & Building                            ║
-║ Location        : Chennai, Tamil Nadu, India                   ║
-║ Education       : B.E. Computer Science & Engineering          ║
-║ Specialization  : AI • Full Stack • UI/UX • Research           ║
-║ Design Style    : Cyberpunk Minimalism                         ║
-║ Current Focus   : AI Solutions • Research • Open Source        ║
-╚════════════════════════════════════════════════════════════════╝
-```
+**Domains I Build In**
 
----
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=flat-square&logo=openai&logoColor=white)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-0D1117?style=flat-square&logo=opencv&logoColor=white)
+![Deepfake Detection](https://img.shields.io/badge/Deepfake%20Detection-0D1117?style=flat-square)
 
-### ⚡ Digital Mission
-> **"Technology becomes truly powerful when it is intelligent, beautiful, and solves real human problems."**
+<br/>
 
-I combine **Artificial Intelligence**, **Full Stack Development**, and **immersive UI/UX** to create solutions that matter. From protecting digital identities to advancing scientific research, I engineer experiences that bridge technology and humanity.
-
----
-
-### 🚀 Current Objectives
-- **🧠 Advanced AI Research** (Computer Vision, Generative Models, Deepfake Defense)
-- **🌐 Scalable Full Stack Applications**
-- **🎨 Next-Gen UI/UX with Motion Design**
-- **☁ Cloud-Native & DevOps Practices**
-- **🔬 Scientific Computing & Healthcare AI**
-- **🚀 Open Source Contributions & Community Building**
-
----
-
-### 🌌 Cyber Core
-```text
-AI & Machine Learning          ████████████████████░░  92%
-Full Stack Development         ████████████████████░░  91%
-UI/UX & Motion Design          ██████████████████████  98%
-Research & Innovation          ███████████████████░░░  89%
-Problem Solving & Algorithms   █████████████████████░  95%
-```
-
----
-
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35"> About Me
-
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Cyber Animation"/>
-
-```yaml
-Name: Radheesh Kumar R
-Location: Chennai, Tamil Nadu, India
-Education: B.E. Computer Science & Engineering (2024 - 2028)
-University: Rajalakshmi Institute of Technology
-International Exposure: Universiti Tun Hussein Onn Malaysia (UTHM)
-Status: Building • Learning • Innovating Daily
-Dream: Impact millions through intelligent technology
-Personality: Curious • Creative • Disciplined • Collaborative
-```
-
-### 🌌 My Philosophy
-> **"Code is not just written. It is designed, engineered, optimized, and experienced."**
-
-I believe great software should be **functional**, **intelligent**, **beautiful**, and **ethical**.
-
----
-
-### 🎓 Education & Milestones
-
-<table>
-<tr>
-<td width="80">🎓</td>
-<td><strong>Bachelor of Computer Science & Engineering</strong><br>
-Rajalakshmi Institute of Technology, Chennai<br>
-2024 — 2028<br>
-Focus: AI, Software Engineering, Algorithms, UI/UX</td>
-</tr>
-<tr>
-<td width="80">🌍</td>
-<td><strong>International Academic Mobility Programme</strong><br>
-Universiti Tun Hussein Onn Malaysia (UTHM)<br>
-Global collaboration & cross-cultural learning</td>
-</tr>
-</table>
-
-**Key Achievements:**
-- Official Copyright Certificate — Solar Filament Analysis
-- Research Presentation at International Conference
-- Active Open Source Contributor
-
----
-
-### 🚀 Featured Projects
-
-#### 🛡 **AURA** — Autonomous Unity & Resilience Architecture
-*AI-Powered Deepfake Protection & Digital Identity Guardian*
-
-**Status:** Active | **Category:** Cybersecurity + AI
-
-**Core Capabilities:**
-- Deepfake Detection (TensorFlow + OpenCV)
-- Reverse Image Monitoring
-- Automated Threat Reporting
-- Intelligent Dashboard
-
-**Tech Stack:** React • Node.js • Express • MongoDB • Python • TensorFlow • OpenCV
-
----
-
-#### ☀ **SFASFIC** — Solar Filament Analysis using AI
-*Automated Solar Astronomy Research Tool*
-
-**Status:** Completed | **Achievement:** Official Copyright Certificate
-
-**Features:** Automatic filament detection, length & width measurement, scientific reporting.
-
-**Tech:** Python • OpenCV • NumPy
-
----
-
-#### 🩺 **Medical Report Scanner**
-*AI that translates complex medical reports into patient-friendly language*
-
-**Status:** Completed
-
-**Features:** OCR • NLP Analysis • Severity Detection • Multi-language Support
-
-**Tech:** Python • React • Node.js • OpenCV
-
----
-
-### 📊 Live GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=radheesh01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=radheesh01&theme=tokyonight&hide_border=true"/>
+
+<a href="https://github.com/radheesh01">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=radheesh01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+</a>
+<a href="https://github.com/radheesh01">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radheesh01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</a>
+
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radheesh01&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=radheesh01&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=radheesh01&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=radheesh01&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </div>
+
+<br/>
+
+## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=radheesh01&theme=tokyonight&margin-w=15&margin-h=15&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=radheesh01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
----
+<br/>
 
-### ⚡ Cyber Skills Matrix
+## 💼 Experience
+
+<details>
+<summary><b>Mobility Programme — Universiti Tun Hussein Onn (UTHM), Malaysia</b> | Mar 2026 – Apr 2026</summary>
+<br/>
+
+> `International Exchange` `Cross-Cultural Collaboration` `Research Exposure`
+
+- Participated in an international mobility programme at UTHM, Malaysia
+- Gained exposure to global academic and research practices outside India
+- Earned an official Mobility Certificate from UTHM upon completion
+- Built cross-cultural collaboration and networking experience during the exchange
+
+</details>
+
+<br/>
+
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,react,nodejs,express,mongodb,figma"/>
+
+| Project | Stack / Domain | Highlights |
+|---|---|---|
+| **[AURA – Autonomous Unity & Resilience Architecture](https://github.com/radheesh01)** | Deepfake Detection & Prevention | Automatically generates a protective "shield" against deepfakes; scans the web for links where a submitted image has been used; flags unsafe links and can auto-raise an email report |
+| **[SFASFIC – Solar Image Processing](https://github.com/radheesh01)** | Image Processing | Automatically scans solar filaments; analyses length, width, and other characteristics via pixel-level calculation; idea awarded an official copyright certificate |
+| **[Medical Report Scanner](https://github.com/radheesh01)** | AI-based Health Analysis | Scans uploaded medical reports; uses AI to suggest next steps (no medicines prescribed) in the user's preferred language; recommends consulting a doctor for severe conditions |
+
 </div>
 
-**AI/ML:** Python, TensorFlow, OpenCV, Computer Vision  
-**Frontend:** React, JavaScript, HTML5, CSS3, Tailwind, Animations  
-**Backend:** Node.js, Express, REST APIs  
-**Database:** MongoDB, MySQL  
-**Tools:** Git, Docker, Vercel, VS Code, Figma, Postman  
-**Others:** Linux, Cloud Basics, Research Methodologies
+<br/>
 
----
-
-### 🌐 Connect With Me
+## 🏅 Achievements
 
 <div align="center">
-  <a href="mailto:radzzdev001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-00E5FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/radheesh01">
-    <img src="https://img.shields.io/badge/GitHub-radheesh01-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/radheeshkumarr">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
+
+| | Achievement | Details |
+|---|---|---|
+| 📜 | Copyright Certificate | Awarded for the idea behind the **SFASFIC** solar image processing project |
+| 🎓 | International Conference Certification | Certified for participation/presentation at an international conference |
+| 🌍 | Mobility Certificate | Awarded by **UTHM, Malaysia** for completing the Mobility Programme (Mar–Apr 2026) |
+
 </div>
 
-**Current Goals (2026):**
-- Launch production-ready AI products
-- Contribute meaningfully to Open Source
-- Secure impactful Software Engineering role
-- Publish research & build personal SaaS
+<br/>
 
----
+## 🎓 Education
 
-### 💎 Final Signature
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.E. Computer Science & Engineering | Rajalakshmi Institute of Technology | Sep 2024 – Jun 2028 | — |
+
+</div>
+
+<br/>
+
+## 📚 Currently Exploring
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                 RADHEESH KUMAR R                             ║
-║                                                              ║
-║  AI Engineer • Full Stack Developer • UI/UX Designer         ║
-║  "Engineering the Future with Intelligence & Creativity"     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+🧠 AI/ML           → Applied AI for image analysis & deepfake detection
+🖼️ Image Processing → Pixel-level feature extraction, filament scanning
+🛡️ Deepfake Defense → Detection, source-tracing, and prevention shields
 ```
 
+<br/>
+
+## 📫 Connect With Me
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:001219,20:0f172a,40:1e3a8a,60:2563eb,80:38bdf8,100:00F5FF"/>
-  <br>
-  <strong>Thank you for visiting my digital universe ✨</strong><br>
-  <em>Always learning • Always building • Always improving</em>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radheeshkumarr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:radzzdev001@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=radheesh01&color=70a5fd&style=flat-square)
+
 </div>
-```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
